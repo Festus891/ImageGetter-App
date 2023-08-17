@@ -17,7 +17,8 @@
     padding-right: 10px;
     background-color: #138065;
     position: fixed;
-    margin-top: 0;
+    top: 0;
+    left: 0;
 }
 
 h1{
